@@ -12,7 +12,7 @@ function runner(file) {
 const fail = runner('./module/export-fail.js')
 
 fail()
-console.log(fail.me)
+console.log(fail.me)//fail.word
 
 /**
  * fn 到底生成了怎样的函数？

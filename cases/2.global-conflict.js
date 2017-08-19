@@ -12,7 +12,7 @@
   //   return $
   // }
 
-  root.$
+  root.$ = $ 
 }(global)
 
 /**
